@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Pichilli</h1>
-<h3 align="center">A passionate Full Stack Developer from Italy</h3>
+<h3 align="center">A Heroku Architecture Designer and a Software Engineer mostly focused on Web (Full Stack) and Mobile Development. JavaScript, TypeScript & Flutter enthusiast 💙.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pichillilorenzo&label=Profile%20views&color=0e75b6&style=flat" alt="pichillilorenzo" /> </p>
 
