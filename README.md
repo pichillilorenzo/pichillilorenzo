@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pichillilorenzo@gmail.com**
 
-### Blogs posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
