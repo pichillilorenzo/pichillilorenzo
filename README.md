@@ -25,3 +25,9 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pichillilorenzo&show_icons=true&locale=en" alt="pichillilorenzo" /></p>
+
+### Support me and my projects
+
+<a href="https://www.paypal.com/paypalme/LorenzoPichilli">
+  <img src="https://user-images.githubusercontent.com/5956938/203525449-b51e3679-e086-44eb-bbf6-60255cb1675a.png" alt="Donate with PayPal" style="max-width: 300px"/>
+</a>
