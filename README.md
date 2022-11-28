@@ -13,10 +13,10 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WebView JavaScript injection with User Scripts — Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/webview-javascript-injection-with-user-scripts-flutter-inappwebview-6-46d9969353a4?source=rss-11e6aac5f656------2)
 - [WebView Content Blockers — Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/webview-content-blockers-flutter-inappwebview-6-faba4d61c294?source=rss-11e6aac5f656------2)
 - [Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/flutter-inappwebview-6-b0bcef5ca3cf?source=rss-11e6aac5f656------2)
 - [Flutter WebView JavaScript Communication — InAppWebView 5](https://medium.com/flutter-community/flutter-webview-javascript-communication-inappwebview-5-403088610949?source=rss-11e6aac5f656------2)
-- [What’s new in InAppWebView 5? Null-safety, new features, bug fixes](https://medium.com/flutter-community/whats-new-in-inappwebview-5-null-safety-new-features-bug-fixes-11c9e2cadab2?source=rss-11e6aac5f656------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
