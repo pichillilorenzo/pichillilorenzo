@@ -13,7 +13,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WebView JavaScript injection with User Scripts — Flutter InAppWebView 6](https://betterprogramming.pub/webview-javascript-injection-with-user-scripts-flutter-inappwebview-6-46d9969353a4?source=rss-11e6aac5f656------2)
+- [Injecting JavaScript in Flutter Web View With User Scripts](https://betterprogramming.pub/webview-javascript-injection-with-user-scripts-flutter-inappwebview-6-46d9969353a4?source=rss-11e6aac5f656------2)
 - [WebView Content Blockers — Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/webview-content-blockers-flutter-inappwebview-6-faba4d61c294?source=rss-11e6aac5f656------2)
 - [Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/flutter-inappwebview-6-b0bcef5ca3cf?source=rss-11e6aac5f656------2)
 - [Flutter WebView JavaScript Communication — InAppWebView 5](https://medium.com/flutter-community/flutter-webview-javascript-communication-inappwebview-5-403088610949?source=rss-11e6aac5f656------2)
