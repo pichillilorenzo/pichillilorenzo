@@ -13,8 +13,8 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Convert a PWA Into a Flutter App Using WebViews](https://medium.com/better-programming/convert-a-pwa-into-a-flutter-app-using-webviews-387060548a37?source=rss-11e6aac5f656------2)
-- [Injecting JavaScript in Flutter Web View With User Scripts](https://medium.com/better-programming/webview-javascript-injection-with-user-scripts-flutter-inappwebview-6-46d9969353a4?source=rss-11e6aac5f656------2)
+- [Convert a PWA Into a Flutter App Using WebViews](https://betterprogramming.pub/convert-a-pwa-into-a-flutter-app-using-webviews-387060548a37?source=rss-11e6aac5f656------2)
+- [Injecting JavaScript in Flutter Web View With User Scripts](https://betterprogramming.pub/webview-javascript-injection-with-user-scripts-flutter-inappwebview-6-46d9969353a4?source=rss-11e6aac5f656------2)
 - [WebView Content Blockers — Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/webview-content-blockers-flutter-inappwebview-6-faba4d61c294?source=rss-11e6aac5f656------2)
 - [Flutter InAppWebView 6](https://medium.com/@pichillilorenzo/flutter-inappwebview-6-b0bcef5ca3cf?source=rss-11e6aac5f656------2)
 <!-- BLOG-POST-LIST:END -->
